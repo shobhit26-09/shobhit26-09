@@ -7,7 +7,8 @@ I’m a **Software Developer** with a passion for problem-solving, technology, a
 🔗 **Find me on**:
 - [GitHub](https://github.com/shobhit26-09)
 - [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-867b12223/)
-- 📧 [Email me](mailto:shobhitg947@gmail.com)
+- [Email me](mailto:shobhitg947@gmail.com)
+- [Portfolio](shobhitgupta.netlify.app)
 
 ---
 
