@@ -1,114 +1,132 @@
-# 👋 Hello, I'm **Shobhit Gupta** 👨‍💻
-![Shobhit's Banner](https://img.shields.io/badge/-Shobhit%20Gupta-%23000000?style=for-the-badge&logo=github&logoColor=white&color=00cc99)
+<!-- README.md -->
 
-Welcome to my GitHub profile! 🌟  
-I’m a **Software Developer** with a passion for problem-solving, technology, and continuous learning. I'm always exploring new technologies and building projects that matter. 🚀
+<h1 align="center">🌌 Welcome to My Digital Universe</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Shobhit+Gupta!;Software+Engineer+%7C+AI+Explorer+%7C+Builder;I+code+magic+with+React%2C+Node%2C+AI+%26+ML.;Let's+build+something+extraordinary+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-🔗 **Find me on**:
-- [GitHub](https://github.com/shobhit26-09)
-- [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-867b12223/)
-- [Email me](mailto:shobhitg947@gmail.com)
-- [Portfolio](shobhitgupta.netlify.app)
+<p align="center">
+  <img src="https://i.ibb.co/sKT6mVY/code-rain.gif" alt="code-rain" width="100%"/>
+</p>
 
----
-
-## 🌍 About Me
-I am a highly motivated software developer with a deep understanding of modern technologies and frameworks. I have a passion for building full-stack applications that empower users and simplify everyday tasks. I'm particularly interested in **AI**, **Machine Learning**, and **Web Development**.
-
-- 💡 **Focus**: Building innovative and scalable solutions.
-- 🎯 **Goal**: To continue learning and growing as a software engineer while contributing to impactful open-source projects.
-- 💥 **Fun Fact**: I’ve built **AI-driven apps**, including a **resume builder** and **chess game**, while diving deep into **ReactJS**, **Next.js**, **MongoDB**, and **Docker**.
-  
----
-
-## 🛠️ My Skills
-
-### 🧠 **Languages**:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white)
-
-### 🌐 **Web Development**:
-- ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
-
-### 🗄️ **Databases & Cloud**:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white)
-
-### 🛠️ **Dev Tools**:
-- ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Shobhit%20Gupta-00cc99?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/followers/shobhit26-09?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/shobhit26-09?style=for-the-badge">
+</p>
 
 ---
 
-## 🌱 What I’m Currently Learning:
-- **AI Algorithms** 🤖
-- **Cloud Computing** ☁️
-- **Blockchain** 🛠️
-- **Kubernetes** 🐳
+## 👨‍💻 About Me
+
+💥 Full-stack developer passionate about building modern web apps with **AI**, **cloud-native tools**, and **beautiful UI/UX**.  
+🧠 Thinks in `functions`, dreams in `code`, builds with `passion`.  
+🚀 Always on the edge of innovation — from AI agents to scalable cloud systems.
 
 ---
 
-## 💻 Key Projects
+## 🛠️ Tech Stack
 
-### 🚀 **[AI-Powered Resume Builder](https://github.com/shobhit26-09/ResumeAI)**
-A web-based application where users can build their resumes with the help of **AI**. Powered by **ReactJS**, **Node.js**, and **MongoDB**.
-
-### 🎮 **[AI Chess Game](https://github.com/shobhit26-09/AI-Chess-Game)**
-An intelligent chess game where the AI learns from every move and adapts. Built using **React** and **TensorFlow**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,firebase,docker,kubernetes,git,github,vscode,figma,linux&perline=8" />
+</p>
 
 ---
 
-## 🚀 GitHub Stats
-Here are some stats to showcase my journey:
+## 🔥 Featured Projects
 
-![Shobhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobhit26-09&show_icons=true&hide_title=true&count_private=true&theme=radical)
+### 🎯 [AI-Powered Resume Builder](https://github.com/shobhit26-09/ResumeAI)
+> An intelligent tool that crafts job-winning resumes with AI.
+
+**Stack:** React, Node.js, Tailwind CSS, OpenAI API
+
+---
+
+### ♟️ [AI Chess Game](https://github.com/shobhit26-09/AI-Chess-Game)
+> Adaptive chess engine with self-learning moves and dynamic UI.
+
+**Stack:** React, TensorFlow.js, Chess.js
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit26-09&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shobhit26-09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit26-09&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit26-09&theme=github_dark" />
+</p>
+
+---
+
+## 🔮 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit26-09&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎥 Just for Fun: Code Cube Vibes
+
+<p align="center">
+  <img src="https://i.ibb.co/gZHwhmN/devcube.gif" width="220px" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🤖 Large Language Models (LLMs) & AI Agents  
+- ☁️ Cloud-Native Dev (AWS, Kubernetes, Terraform)  
+- 🔗 Blockchain, Solidity & Smart Contracts
 
 ---
 
 ## 🏆 Achievements
-- ✔️ Contributed to **open-source** projects that have impacted thousands of users.
-- ✔️ Developed several **AI-powered applications** in various fields such as resume building, gaming, and image recognition.
-- ✔️ Completed multiple projects using **React**, **Node.js**, and **MongoDB**, enhancing my full-stack development skills.
+
+✔️ Built AI apps used in real-world job scenarios  
+✔️ Contributor to impactful open-source projects  
+✔️ Mentored juniors on full-stack development  
+✔️ Engineered several smart, fast, and beautiful UIs
 
 ---
 
-## 🧑‍💻 Let's Connect!
-I love networking with fellow developers and tech enthusiasts. Feel free to reach out to me!
+## 🔗 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-867b12223/)
-- ✉️ [Email](mailto:shobhitg947@gmail.com)
-- 💬 Ask me anything, I’m happy to help! 🤝
-
----
-
-🌟 **"The best way to predict the future is to invent it." — Alan Kay** 🌟
-
----
-
-## 📈 My Contribution Activity
-
-![Shobhit's Activity](https://activity-graph.herokuapp.com/graph?username=shobhit26-09&theme=github)
-
----
-
-## 👨‍🏫 Tech Stack Breakdown
-Here’s a fun little breakdown of my journey and skills:
-
-![Tech Stack Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=shobhit26-09&theme=github)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhit-gupta-867b12223/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:shobhitg947@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://shobhitgupta.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=web&logoColor=white">
+  </a>
+  <a href="https://github.com/shobhit26-09" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Stats
-- 🌱 **Days of Code**: 365+ days and counting!
-- 🎮 **Total Lines of Code**: 150,000+ lines!
-- 🏅 **Most Used Programming Language**: JavaScript 🔥
+## 📊 Quick Stats
+
+- 🗓️ **Days of Code:** 365+  
+- 🧑‍💻 **Total Lines Written:** 150,000+  
+- 💬 **Most-used language:** JavaScript  
+- 🕹️ **Hobbies:** Gaming, Designing UIs, Late-night coding marathons  
 
 ---
 
-✨ Thanks for visiting my profile! Let’s build amazing things together. ✨
+<h3 align="center">💡 "The best way to predict the future is to invent it." — Alan Kay</h3>
+<p align="center">
+  <img src="https://i.ibb.co/WFss9Mz/glitch.gif" width="400" />
+</p>
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
