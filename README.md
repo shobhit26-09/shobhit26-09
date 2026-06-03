@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Shobhit+Gupta!;Software+Engineer+%7C+AI+Explorer+%7C+Builder;I+code+magic+with+React%2C+Node%2C+AI+%26+ML.;Let's+build+something+extraordinary+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+<!-- Specs -->
 <p align="center">
   <img src="https://i.ibb.co/sKT6mVY/code-rain.gif" alt="code-rain" width="100%"/>
 </p>
