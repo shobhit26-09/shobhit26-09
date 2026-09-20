@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c1a2058d-ce66-49c1-8f97-143856faa19a" alt="Shobhit Gupta - Frontend Developer, React and TypeScript" width="100%"/>
 </p>
 
-Frontend developer based in Dharamshala, India. I build fast, clean web interfaces with React and TypeScript, and I care about how they look.
+Frontend developer based in India. I build fast, clean web interfaces with React and TypeScript, and I care about how they look.
 
 **Open to junior frontend and MERN roles in India or remote.**
 
